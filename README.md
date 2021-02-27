@@ -1,2 +1,2 @@
 # MAD-Assignment
-So we are creating an applicatoin for traveling 
+So we are creating an applicatoin for traveling using Java
